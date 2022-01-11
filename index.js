@@ -1,4 +1,3 @@
-
 const arrayOfGifts = ["teddy bear", "drone", "doll"];
 
 function wrapGifts(gifts) {
@@ -30,6 +29,6 @@ function countDown(givenNumber) {
     while (countDown >= 0) {
         console.log(countDown--);
     }
-    
+
 };
 countDown(11);
